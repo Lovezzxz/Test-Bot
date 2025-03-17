@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "MTM1MDg0NTU1NDQ4MTA0MTQ3OA.GpamtH.WobzqodgqkQlYFoescK9bM5LxmEkJhTSDyTjX0",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://Ronggz:Yarong123@cluster0.rudcs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "excessCommands": {
         "utility": true,
         "other": true,
